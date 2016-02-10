@@ -1,2 +1,0 @@
-# pyhtonEducation
-coursea, stepic etc
