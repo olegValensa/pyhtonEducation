@@ -8,4 +8,4 @@ for row in sys.stdin:
     outNumber = len(outVertex)
     outWeigth = format(float(totalWeigth)/outNumber, '.3f')
     for v in outVertex:
-        print(str(v) +'\t' + str(outWeigth) + '\t{}')
+        print(str(v) + '\t' + str(outWeigth) + '\t{}')
