@@ -1,0 +1,2 @@
+class PositiveList(list):
+    pass
