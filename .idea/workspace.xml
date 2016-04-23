@@ -1,21 +1,192 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c1b39bf0-daec-43f8-ab8e-964fe58a88a3" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/copyright/profiles_settings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyhtonEducation.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/sbt.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="DELETED" beforePath="C:\Users\maol.KYIV\IdeaProjectsr\py-stepic\pyhtonEducation\w2_tools\02_excep_hierarchy.py" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\maol.KYIV\IdeaProjectsr\py-stepic\pyhtonEducation\w2_tools\03_excep_List.py" afterPath="" />
+    <list default="true" id="c1b39bf0-daec-43f8-ab8e-964fe58a88a3" name="Default" comment="all previous inserted">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/coursera/database/emaildb.sqlite" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/coursera/geodata/geodata.sqlite" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/coursera/database/rosterdb.sqlite" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/coursera/database/trackdb.sqlite" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hadoop/MapReduce/CombinerAvg1.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hadoop/MapReduce/DifferenceReducer2.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hadoop/MapReduce/DifferenceReducer3.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hadoop/MapReduce/DistinctMapperV1-1.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hadoop/MapReduce/DistinctMapperV1-2.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hadoop/MapReduce/DistinctMapperV2.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hadoop/MapReduce/DistinctRedicerV2.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hadoop/MapReduce/FilterMapper.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hadoop/MapReduce/IntersectionReducer.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hadoop/MapReduce/JoinReducer.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/coursera/files/Library.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hadoop/MapReduce/MapperCombinerWC.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hadoop/MapReduce/MapperOptV2WC.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/coursera/geodata/README.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hadoop/MapReduce/ReducerAvg1.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hadoop/MapReduce/StricksMapper.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hadoop/MapReduce/StricksMapper2.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hadoop/MapReduce/TFIDFMapper.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hadoop/MapReduce/TFIDFMapper2.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hadoop/MapReduce/TFIDFReducer.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hadoop/MapReduce/TFIDFReducer2.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/additional/files/Taleo_Experience_35.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hadoop/MapReduce/UnionReducer.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/additional/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/coursera/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hadoop/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hadoop/MapReduce/graph/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stepic_basic/task1/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stepic_usage/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stepic_usage/week1_basic/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stepic_usage/week2_tools/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/additional/addToMongo.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/additional/additionalFBEnrich.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stepic_basic/task3/args_print.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stepic_basic/task3/avg_marks.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stepic_basic/task3/avg_weigth.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/algorithms/w2/bag_input.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stepic_basic/task2/break_cont.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stepic_basic/task2/code_string.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/coursera/files/comments_42.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/coursera/files/comments_42.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stepic_basic/task2/count_symbols.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stepic_basic/task3/files/dataset_3363_2.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stepic_basic/task3/files/dataset_3363_3.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stepic_basic/task3/files/dataset_3363_4.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stepic_basic/task3/files/dataset_3378_2 (1).txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stepic_basic/task3/files/dataset_3378_2.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stepic_basic/task3/files/dataset_3378_3.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stepic_basic/task3/files/dataset_3380_5 (1).txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stepic_basic/task3/files/dataset_3380_5 (2).txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stepic_basic/task3/files/dataset_3380_5.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stepic_basic/task3/decode_file.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/additional/delFromMongoFB.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stepic_basic/task3/diff_f_ot_x.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hadoop/MapReduce/graph/dijkstraAlgorithm.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hadoop/files/dijkstra" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stepic_basic/task3/direction.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/additional/distinctEnrichedLeads.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hadoop/files/distinctInput1.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hadoop/files/distinctInput2.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/additional/documentsNotEnriched.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/algorithms/w3/doubl_search.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stepic_basic/task3/encryption.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/additional/files/enrichedLeads" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/algorithms/w1/eucl.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stepic_basic/task3/f_x.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/algorithms/w1/fib1.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stepic_basic/task1/figures_square.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stepic_basic/task1/file.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stepic_basic/task3/files/file.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/coursera/files.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stepic_basic/task3/files_queue.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/additional/findAmplitude.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stepic_basic/task1/flection_changing.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stepic_basic/task3/footbal_table.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stepic_basic/task2/for.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/coursera/geodata/geodump.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/coursera/geojson.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/coursera/geodata/geoload.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hadoop/files/groups.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/algorithms/w2/heap.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/algorithms/w2/heap_chit.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/algorithms/w2/huffman_decode.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/algorithms/w2/huffman_decode_notree.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/algorithms/w2/huffman_encode.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stepic_basic/task3/import_pi.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/coursera/files/inabi.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stepic_basic/task2/inout_file.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hadoop/files/input.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hadoop/files/inputAvg1Combiner.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hadoop/files/inputAvg1Reducer.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hadoop/files/inputCeasar.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hadoop/files/inputSites.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/coursera/database/insert.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/coursera/intro.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/coursera/database/join.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hadoop/files/join.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/coursera/jsonInabi.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/coursera/jsons.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stepic_basic/task2/list_povt.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stepic_basic/task2/list_sum.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hadoop/files/logs.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stepic_basic/task1/lucky_ticket.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/coursera/database/many-to-many.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hadoop/MapReduce/mapperWC.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stepic_basic/task2/matrix.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stepic_basic/task1/max_min.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/coursera/files/mbox-short.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/coursera/files/mbox.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/additional/merge_file.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/additional/merge_files.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/algorithms/w3/merge_sort.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hadoop/MapReduce/graph/mindistMapper1.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hadoop/MapReduce/graph/mindistReducer1.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stepic_basic/task3/modify_list.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stepic_basic/task2/nok.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stepic_basic/task3/files/out.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/additional/files/output.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stepic_basic/task3/files/output.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stepic_basic/task2/output_n.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hadoop/MapReduce/graph/pageRankMapper1.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hadoop/MapReduce/graph/pageRankReducer1.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/additional/files/part-00001" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/additional/files/part-0000" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stepic_basic/task2/positions_in_list.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/copyright/profiles_settings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/algorithms/w3/quick_sort.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/algorithms/w3/quick_sort_segment.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/coursera/quize.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hadoop/MapReduce/reducerWC.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/coursera/files/regex_sum_184247.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/coursera/files/regex_sum_42.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stepic_basic/task3/request_lines.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/coursera/files/romeo.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/coursera/files/roster_data.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/algorithms/w2/segment_cover.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/coursera/soup.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/coursera/spark.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stepic_basic/task3/spelling.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/additional/splitCSV60.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stepic_basic/task2/squares_zero.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hadoop/files/stricksIn.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stepic_basic/task2/sum_divided_three.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/algorithms/w2/sum_of_numbers.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stepic_basic/task2/sum_until_zero.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/additional/files/test.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/algorithms/w3/test.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/copyright/test.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hadoop/files/tfidfInput.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stepic_basic/task3/update_dict.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stepic_basic/task1/visok_year.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/coursera/web.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/coursera/geodata/where.data" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/coursera/geodata/where.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/coursera/geodata/where.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stepic_basic/task3/word_count.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stepic_basic/task3/word_count_max.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/coursera/files/words.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stepic_basic/task3/files/words.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stepic_basic/task2/zmeika.py" />
+      <change type="MOVED" beforePath="C:\Users\maol.KYIV\IdeaProjectsr\py-stepic\pyhtonEducation\week1_basic\01_sum.py" afterPath="$PROJECT_DIR$/stepic_usage/week1_basic/01_sum.py" />
+      <change type="MOVED" beforePath="C:\Users\maol.KYIV\IdeaProjectsr\py-stepic\pyhtonEducation\week1_basic\02_diff_elements.py" afterPath="$PROJECT_DIR$/stepic_usage/week1_basic/02_diff_elements.py" />
+      <change type="MOVED" beforePath="C:\Users\maol.KYIV\IdeaProjectsr\py-stepic\pyhtonEducation\week1_basic\03_closest_mod_5.py" afterPath="$PROJECT_DIR$/stepic_usage/week1_basic/03_closest_mod_5.py" />
+      <change type="MOVED" beforePath="C:\Users\maol.KYIV\IdeaProjectsr\py-stepic\pyhtonEducation\week1_basic\04_recursion.py" afterPath="$PROJECT_DIR$/stepic_usage/week1_basic/04_recursion.py" />
+      <change type="MOVED" beforePath="C:\Users\maol.KYIV\IdeaProjectsr\py-stepic\pyhtonEducation\week1_basic\05_namespace.py" afterPath="$PROJECT_DIR$/stepic_usage/week1_basic/05_namespace.py" />
+      <change type="MOVED" beforePath="C:\Users\maol.KYIV\IdeaProjectsr\py-stepic\pyhtonEducation\week1_basic\05_namespaces.py" afterPath="$PROJECT_DIR$/stepic_usage/week1_basic/05_namespaces.py" />
+      <change type="MOVED" beforePath="C:\Users\maol.KYIV\IdeaProjectsr\py-stepic\pyhtonEducation\week1_basic\06_moneyBox.py" afterPath="$PROJECT_DIR$/stepic_usage/week1_basic/06_moneyBox.py" />
+      <change type="MOVED" beforePath="C:\Users\maol.KYIV\IdeaProjectsr\py-stepic\pyhtonEducation\week1_basic\07_buffer.py" afterPath="$PROJECT_DIR$/stepic_usage/week1_basic/07_buffer.py" />
+      <change type="MOVED" beforePath="C:\Users\maol.KYIV\IdeaProjectsr\py-stepic\pyhtonEducation\week1_basic\08_2_class.py" afterPath="$PROJECT_DIR$/stepic_usage/week1_basic/08_2_class.py" />
+      <change type="MOVED" beforePath="C:\Users\maol.KYIV\IdeaProjectsr\py-stepic\pyhtonEducation\week1_basic\08_classInheritance.py" afterPath="$PROJECT_DIR$/stepic_usage/week1_basic/08_classInheritance.py" />
+      <change type="MOVED" beforePath="C:\Users\maol.KYIV\IdeaProjectsr\py-stepic\pyhtonEducation\week1_basic\09_listExtend.py" afterPath="$PROJECT_DIR$/stepic_usage/week1_basic/09_listExtend.py" />
+      <change type="MOVED" beforePath="C:\Users\maol.KYIV\IdeaProjectsr\py-stepic\pyhtonEducation\week1_basic\10_log.py" afterPath="$PROJECT_DIR$/stepic_usage/week1_basic/10_log.py" />
+      <change type="MOVED" beforePath="C:\Users\maol.KYIV\IdeaProjectsr\py-stepic\pyhtonEducation\week2_tools\02_excep_hierarchy.py" afterPath="$PROJECT_DIR$/stepic_usage/week2_tools/02_excep_hierarchy.py" />
+      <change type="MOVED" beforePath="C:\Users\maol.KYIV\IdeaProjectsr\py-stepic\pyhtonEducation\week2_tools\03_excep_List.py" afterPath="$PROJECT_DIR$/stepic_usage/week2_tools/03_excep_List.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="pyhtonEducation.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path=".idea/dataSources.local.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -31,12 +202,83 @@
   <component name="FavoritesManager">
     <favorites_list name="pyhtonEducation" />
   </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="27" column="5" selection-start-line="27" selection-start-column="5" selection-end-line="27" selection-end-column="5" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="10_log.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/stepic_usage/week1_basic/10_log.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="01_sum.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/stepic_usage/week1_basic/01_sum.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="file.txt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/stepic_basic/task1/file.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="test.csv" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/additional/files/test.csv">
+          <provider editor-type-id="com.intellij.database.editor.CsvTableFileEditorProvider">
+            <state />
+          </provider>
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.8">
+              <caret line="17" column="20" selection-start-line="17" selection-start-column="20" selection-end-line="17" selection-end-column="20" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GradleLocalSettings">
     <option name="externalProjectsViewState">
       <projects_view />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/.gitignore" />
+      </list>
     </option>
   </component>
   <component name="JsBuildToolGruntFileManager" detection-done="true" />
@@ -75,7 +317,7 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -94,38 +336,10 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="pyhtonEducation" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="pyhtonEducation" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="week2_tools" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="pyhtonEducation" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="pyhtonEducation" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="week1_basic" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
       <pane id="Scratches" />
-      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -143,11 +357,60 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="WebServerToolWindowFactoryState" value="true" />
   </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\maol.KYIV\IdeaProjectsr\py-stepic\pyhtonEducation" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\maol.KYIV\IdeaProjectsr\py-stepic\pyhtonEducation\stepic_usage" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
       <module name="" />
       <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
       <option name="PROGRAM_PARAMETERS" />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android Application">
+      <module name="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="DEPLOY" value="true" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="TARGET_SELECTION_MODE" value="EMULATOR" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="USE_COMMAND_LINE" value="true" />
+      <option name="COMMAND_LINE" value="" />
+      <option name="WIPE_USER_DATA" value="false" />
+      <option name="DISABLE_BOOT_ANIMATION" value="false" />
+      <option name="NETWORK_SPEED" value="full" />
+      <option name="NETWORK_LATENCY" value="none" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="FILTER_LOGCAT_AUTOMATICALLY" value="true" />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
+      <module name="" />
+      <option name="TESTING_TYPE" value="0" />
+      <option name="INSTRUMENTATION_RUNNER_CLASS" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TARGET_SELECTION_MODE" value="EMULATOR" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="USE_COMMAND_LINE" value="true" />
+      <option name="COMMAND_LINE" value="" />
+      <option name="WIPE_USER_DATA" value="false" />
+      <option name="DISABLE_BOOT_ANIMATION" value="false" />
+      <option name="NETWORK_SPEED" value="full" />
+      <option name="NETWORK_LATENCY" value="none" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="FILTER_LOGCAT_AUTOMATICALLY" value="true" />
       <method />
     </configuration>
     <configuration default="true" type="Applet" factoryName="Applet">
@@ -172,6 +435,120 @@
       <envs />
       <method />
     </configuration>
+    <configuration default="true" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="myFilePath" />
+      <option name="GLUE" />
+      <option name="myNameFilter" />
+      <option name="myGeneratedName" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="DjangoTestsConfigurationType" factoryName="Django tests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="pyhtonEducation" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="TARGET" value="" />
+      <option name="SETTINGS_FILE" value="" />
+      <option name="CUSTOM_SETTINGS" value="false" />
+      <option name="USE_OPTIONS" value="false" />
+      <option name="OPTIONS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="FlashRunConfigurationType" factoryName="Flash App">
+      <option name="BCName" value="" />
+      <option name="IOSSimulatorSdkPath" value="" />
+      <option name="adlOptions" value="" />
+      <option name="airProgramParameters" value="" />
+      <option name="appDescriptorForEmulator" value="Android" />
+      <option name="debugTransport" value="USB" />
+      <option name="debuggerSdkRaw" value="BC SDK" />
+      <option name="emulator" value="NexusOne" />
+      <option name="emulatorAdlOptions" value="" />
+      <option name="fastPackaging" value="true" />
+      <option name="fullScreenHeight" value="0" />
+      <option name="fullScreenWidth" value="0" />
+      <option name="launchUrl" value="false" />
+      <option name="launcherParameters">
+        <LauncherParameters>
+          <option name="browser" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
+          <option name="launcherType" value="OSDefault" />
+          <option name="newPlayerInstance" value="false" />
+          <option name="playerPath" value="FlashPlayerDebugger.exe" />
+        </LauncherParameters>
+      </option>
+      <option name="mobileRunTarget" value="Emulator" />
+      <option name="moduleName" value="" />
+      <option name="overriddenMainClass" value="" />
+      <option name="overriddenOutputFileName" value="" />
+      <option name="overrideMainClass" value="false" />
+      <option name="runTrusted" value="true" />
+      <option name="screenDpi" value="0" />
+      <option name="screenHeight" value="0" />
+      <option name="screenWidth" value="0" />
+      <option name="url" value="http://" />
+      <option name="usbDebugPort" value="7936" />
+      <method />
+    </configuration>
+    <configuration default="true" type="FlexUnitRunConfigurationType" factoryName="FlexUnit" appDescriptorForEmulator="Android" class_name="" emulatorAdlOptions="" method_name="" package_name="" scope="Class">
+      <option name="BCName" value="" />
+      <option name="launcherParameters">
+        <LauncherParameters>
+          <option name="browser" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
+          <option name="launcherType" value="OSDefault" />
+          <option name="newPlayerInstance" value="false" />
+          <option name="playerPath" value="FlashPlayerDebugger.exe" />
+        </LauncherParameters>
+      </option>
+      <option name="moduleName" value="" />
+      <option name="trusted" value="true" />
+      <method />
+    </configuration>
+    <configuration default="true" type="GradleRunConfiguration" factoryName="Gradle">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list />
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <method />
+    </configuration>
+    <configuration default="true" type="GrailsRunConfigurationType" factoryName="Grails">
+      <module name="" />
+      <setting name="vmparams" value="" />
+      <setting name="cmdLine" value="run-app" />
+      <setting name="depsClasspath" value="false" />
+      <setting name="passParentEnv" value="true" />
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <setting name="launchBrowser" value="false" />
+      <method />
+    </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <module name="" />
@@ -193,12 +570,104 @@
       <patterns />
       <method />
     </configuration>
+    <configuration default="true" type="JarApplication" factoryName="JAR Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="PyBehaveRunConfigurationType" factoryName="Behave">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="pyhtonEducation" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="ADDITIONAL_ARGS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="PyLettuceRunConfigurationType" factoryName="Lettuce">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="pyhtonEducation" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="ADDITIONAL_ARGS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="pyhtonEducation" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
     <configuration default="true" type="Remote" factoryName="Remote">
       <option name="USE_SOCKET_TRANSPORT" value="true" />
       <option name="SERVER_MODE" value="false" />
       <option name="SHMEM_ADDRESS" value="javadebug" />
       <option name="HOST" value="localhost" />
       <option name="PORT" value="5005" />
+      <method />
+    </configuration>
+    <configuration default="true" type="ScalaTestRunConfiguration" factoryName="ScalaTest">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <extension name="scalaCoverage" />
+      <module name="" />
+      <setting name="path" value="" />
+      <setting name="package" value="" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workingDirectory" value="" />
+      <setting name="searchForTest" value="Across module dependencies" />
+      <setting name="testName" value="" />
+      <setting name="testKind" value="Class" />
+      <setting name="showProgressMessages" value="true" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="Specs2RunConfiguration" factoryName="Specs2">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <extension name="scalaCoverage" />
+      <module name="" />
+      <setting name="path" value="" />
+      <setting name="package" value="" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workingDirectory" value="" />
+      <setting name="searchForTest" value="Across module dependencies" />
+      <setting name="testName" value="" />
+      <setting name="testKind" value="Class" />
+      <setting name="showProgressMessages" value="true" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <envs />
       <method />
     </configuration>
     <configuration default="true" type="TestNG" factoryName="TestNG">
@@ -229,6 +698,141 @@
       <listeners />
       <method />
     </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <method />
+    </configuration>
+    <configuration default="true" type="osgi.bnd.run" factoryName="Run Launcher">
+      <method />
+    </configuration>
+    <configuration default="true" type="osgi.bnd.run" factoryName="Test Launcher (JUnit)">
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Attests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="pyhtonEducation" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Doctests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="pyhtonEducation" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Nosetests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="pyhtonEducation" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Unittests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="pyhtonEducation" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PUREUNITTEST" value="true" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="py.test">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="pyhtonEducation" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="testToRun" value="" />
+      <option name="keywords" value="" />
+      <option name="params" value="" />
+      <option name="USE_PARAM" value="false" />
+      <option name="USE_KEYWORD" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="uTestRunConfiguration" factoryName="utest">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <extension name="scalaCoverage" />
+      <module name="" />
+      <setting name="path" value="" />
+      <setting name="package" value="" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workingDirectory" value="" />
+      <setting name="searchForTest" value="Across module dependencies" />
+      <setting name="testName" value="" />
+      <setting name="testKind" value="Class" />
+      <setting name="showProgressMessages" value="true" />
+      <envs />
+      <method />
+    </configuration>
   </component>
   <component name="SbtLocalSettings">
     <option name="modificationStamps">
@@ -247,28 +851,37 @@
       <created>1461418021809</created>
       <option name="number" value="Default" />
       <updated>1461418021809</updated>
-      <workItem from="1461418030442" duration="223000" />
+      <workItem from="1461418030442" duration="523000" />
+      <workItem from="1461418640770" duration="243000" />
     </task>
+    <task id="LOCAL-00001" summary="first time test">
+      <created>1461418275968</created>
+      <option name="number" value="00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1461418275968</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="223000" />
+    <option name="totallyTimeSpent" value="766000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32962447" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3356546" sideWeight="0.5025707" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32962447" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3356546" sideWeight="0.4974293" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.19215938" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.19215938" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -288,8 +901,66 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="first time test" />
+    <MESSAGE value="all previous inserted" />
+    <option name="LAST_COMMIT_MESSAGE" value="all previous inserted" />
+  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="27" column="5" selection-start-line="27" selection-start-column="5" selection-end-line="27" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/stepic_usage/week1_basic/10_log.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/stepic_usage/week1_basic/01_sum.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/stepic_basic/task1/file.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/additional/files/test.csv">
+      <provider editor-type-id="com.intellij.database.editor.CsvTableFileEditorProvider">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.8">
+          <caret line="17" column="20" selection-start-line="17" selection-start-column="20" selection-end-line="17" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
   </component>
 </project>
