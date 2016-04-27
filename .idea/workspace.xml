@@ -1,186 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c1b39bf0-daec-43f8-ab8e-964fe58a88a3" name="Default" comment="all previous inserted">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/coursera/database/emaildb.sqlite" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/coursera/geodata/geodata.sqlite" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/coursera/database/rosterdb.sqlite" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/coursera/database/trackdb.sqlite" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hadoop/MapReduce/CombinerAvg1.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hadoop/MapReduce/DifferenceReducer2.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hadoop/MapReduce/DifferenceReducer3.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hadoop/MapReduce/DistinctMapperV1-1.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hadoop/MapReduce/DistinctMapperV1-2.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hadoop/MapReduce/DistinctMapperV2.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hadoop/MapReduce/DistinctRedicerV2.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hadoop/MapReduce/FilterMapper.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hadoop/MapReduce/IntersectionReducer.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hadoop/MapReduce/JoinReducer.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/coursera/files/Library.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hadoop/MapReduce/MapperCombinerWC.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hadoop/MapReduce/MapperOptV2WC.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/coursera/geodata/README.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hadoop/MapReduce/ReducerAvg1.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hadoop/MapReduce/StricksMapper.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hadoop/MapReduce/StricksMapper2.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hadoop/MapReduce/TFIDFMapper.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hadoop/MapReduce/TFIDFMapper2.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hadoop/MapReduce/TFIDFReducer.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hadoop/MapReduce/TFIDFReducer2.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/additional/files/Taleo_Experience_35.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hadoop/MapReduce/UnionReducer.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/additional/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/coursera/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hadoop/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hadoop/MapReduce/graph/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stepic_basic/task1/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stepic_usage/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stepic_usage/week1_basic/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stepic_usage/week2_tools/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/additional/addToMongo.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/additional/additionalFBEnrich.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stepic_basic/task3/args_print.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stepic_basic/task3/avg_marks.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stepic_basic/task3/avg_weigth.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/algorithms/w2/bag_input.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stepic_basic/task2/break_cont.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stepic_basic/task2/code_string.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/coursera/files/comments_42.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/coursera/files/comments_42.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stepic_basic/task2/count_symbols.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stepic_basic/task3/files/dataset_3363_2.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stepic_basic/task3/files/dataset_3363_3.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stepic_basic/task3/files/dataset_3363_4.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stepic_basic/task3/files/dataset_3378_2 (1).txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stepic_basic/task3/files/dataset_3378_2.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stepic_basic/task3/files/dataset_3378_3.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stepic_basic/task3/files/dataset_3380_5 (1).txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stepic_basic/task3/files/dataset_3380_5 (2).txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stepic_basic/task3/files/dataset_3380_5.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stepic_basic/task3/decode_file.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/additional/delFromMongoFB.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stepic_basic/task3/diff_f_ot_x.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hadoop/MapReduce/graph/dijkstraAlgorithm.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hadoop/files/dijkstra" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stepic_basic/task3/direction.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/additional/distinctEnrichedLeads.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hadoop/files/distinctInput1.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hadoop/files/distinctInput2.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/additional/documentsNotEnriched.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/algorithms/w3/doubl_search.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stepic_basic/task3/encryption.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/additional/files/enrichedLeads" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/algorithms/w1/eucl.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stepic_basic/task3/f_x.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/algorithms/w1/fib1.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stepic_basic/task1/figures_square.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stepic_basic/task1/file.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stepic_basic/task3/files/file.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/coursera/files.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stepic_basic/task3/files_queue.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/additional/findAmplitude.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stepic_basic/task1/flection_changing.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stepic_basic/task3/footbal_table.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stepic_basic/task2/for.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/coursera/geodata/geodump.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/coursera/geojson.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/coursera/geodata/geoload.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hadoop/files/groups.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/algorithms/w2/heap.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/algorithms/w2/heap_chit.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/algorithms/w2/huffman_decode.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/algorithms/w2/huffman_decode_notree.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/algorithms/w2/huffman_encode.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stepic_basic/task3/import_pi.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/coursera/files/inabi.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stepic_basic/task2/inout_file.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hadoop/files/input.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hadoop/files/inputAvg1Combiner.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hadoop/files/inputAvg1Reducer.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hadoop/files/inputCeasar.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hadoop/files/inputSites.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/coursera/database/insert.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/coursera/intro.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/coursera/database/join.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hadoop/files/join.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/coursera/jsonInabi.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/coursera/jsons.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stepic_basic/task2/list_povt.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stepic_basic/task2/list_sum.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hadoop/files/logs.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stepic_basic/task1/lucky_ticket.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/coursera/database/many-to-many.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hadoop/MapReduce/mapperWC.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stepic_basic/task2/matrix.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stepic_basic/task1/max_min.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/coursera/files/mbox-short.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/coursera/files/mbox.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/additional/merge_file.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/additional/merge_files.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/algorithms/w3/merge_sort.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hadoop/MapReduce/graph/mindistMapper1.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hadoop/MapReduce/graph/mindistReducer1.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stepic_basic/task3/modify_list.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stepic_basic/task2/nok.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stepic_basic/task3/files/out.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/additional/files/output.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stepic_basic/task3/files/output.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stepic_basic/task2/output_n.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hadoop/MapReduce/graph/pageRankMapper1.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hadoop/MapReduce/graph/pageRankReducer1.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/additional/files/part-00001" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/additional/files/part-0000" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stepic_basic/task2/positions_in_list.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/copyright/profiles_settings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/algorithms/w3/quick_sort.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/algorithms/w3/quick_sort_segment.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/coursera/quize.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hadoop/MapReduce/reducerWC.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/coursera/files/regex_sum_184247.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/coursera/files/regex_sum_42.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stepic_basic/task3/request_lines.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/coursera/files/romeo.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/coursera/files/roster_data.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/algorithms/w2/segment_cover.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/coursera/soup.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/coursera/spark.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stepic_basic/task3/spelling.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/additional/splitCSV60.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stepic_basic/task2/squares_zero.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hadoop/files/stricksIn.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stepic_basic/task2/sum_divided_three.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/algorithms/w2/sum_of_numbers.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stepic_basic/task2/sum_until_zero.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/additional/files/test.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/algorithms/w3/test.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/copyright/test.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hadoop/files/tfidfInput.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stepic_basic/task3/update_dict.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stepic_basic/task1/visok_year.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/coursera/web.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/coursera/geodata/where.data" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/coursera/geodata/where.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/coursera/geodata/where.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stepic_basic/task3/word_count.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stepic_basic/task3/word_count_max.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/coursera/files/words.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stepic_basic/task3/files/words.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stepic_basic/task2/zmeika.py" />
-      <change type="MOVED" beforePath="C:\Users\maol.KYIV\IdeaProjectsr\py-stepic\pyhtonEducation\week1_basic\01_sum.py" afterPath="$PROJECT_DIR$/stepic_usage/week1_basic/01_sum.py" />
-      <change type="MOVED" beforePath="C:\Users\maol.KYIV\IdeaProjectsr\py-stepic\pyhtonEducation\week1_basic\02_diff_elements.py" afterPath="$PROJECT_DIR$/stepic_usage/week1_basic/02_diff_elements.py" />
-      <change type="MOVED" beforePath="C:\Users\maol.KYIV\IdeaProjectsr\py-stepic\pyhtonEducation\week1_basic\03_closest_mod_5.py" afterPath="$PROJECT_DIR$/stepic_usage/week1_basic/03_closest_mod_5.py" />
-      <change type="MOVED" beforePath="C:\Users\maol.KYIV\IdeaProjectsr\py-stepic\pyhtonEducation\week1_basic\04_recursion.py" afterPath="$PROJECT_DIR$/stepic_usage/week1_basic/04_recursion.py" />
-      <change type="MOVED" beforePath="C:\Users\maol.KYIV\IdeaProjectsr\py-stepic\pyhtonEducation\week1_basic\05_namespace.py" afterPath="$PROJECT_DIR$/stepic_usage/week1_basic/05_namespace.py" />
-      <change type="MOVED" beforePath="C:\Users\maol.KYIV\IdeaProjectsr\py-stepic\pyhtonEducation\week1_basic\05_namespaces.py" afterPath="$PROJECT_DIR$/stepic_usage/week1_basic/05_namespaces.py" />
-      <change type="MOVED" beforePath="C:\Users\maol.KYIV\IdeaProjectsr\py-stepic\pyhtonEducation\week1_basic\06_moneyBox.py" afterPath="$PROJECT_DIR$/stepic_usage/week1_basic/06_moneyBox.py" />
-      <change type="MOVED" beforePath="C:\Users\maol.KYIV\IdeaProjectsr\py-stepic\pyhtonEducation\week1_basic\07_buffer.py" afterPath="$PROJECT_DIR$/stepic_usage/week1_basic/07_buffer.py" />
-      <change type="MOVED" beforePath="C:\Users\maol.KYIV\IdeaProjectsr\py-stepic\pyhtonEducation\week1_basic\08_2_class.py" afterPath="$PROJECT_DIR$/stepic_usage/week1_basic/08_2_class.py" />
-      <change type="MOVED" beforePath="C:\Users\maol.KYIV\IdeaProjectsr\py-stepic\pyhtonEducation\week1_basic\08_classInheritance.py" afterPath="$PROJECT_DIR$/stepic_usage/week1_basic/08_classInheritance.py" />
-      <change type="MOVED" beforePath="C:\Users\maol.KYIV\IdeaProjectsr\py-stepic\pyhtonEducation\week1_basic\09_listExtend.py" afterPath="$PROJECT_DIR$/stepic_usage/week1_basic/09_listExtend.py" />
-      <change type="MOVED" beforePath="C:\Users\maol.KYIV\IdeaProjectsr\py-stepic\pyhtonEducation\week1_basic\10_log.py" afterPath="$PROJECT_DIR$/stepic_usage/week1_basic/10_log.py" />
-      <change type="MOVED" beforePath="C:\Users\maol.KYIV\IdeaProjectsr\py-stepic\pyhtonEducation\week2_tools\02_excep_hierarchy.py" afterPath="$PROJECT_DIR$/stepic_usage/week2_tools/02_excep_hierarchy.py" />
-      <change type="MOVED" beforePath="C:\Users\maol.KYIV\IdeaProjectsr\py-stepic\pyhtonEducation\week2_tools\03_excep_List.py" afterPath="$PROJECT_DIR$/stepic_usage/week2_tools/03_excep_List.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
+    <list default="true" id="c1b39bf0-daec-43f8-ab8e-964fe58a88a3" name="Default" comment="week2 updates">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stepic_usage/week2_tools/04_import.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stepic_usage/week2_tools/05_filter.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stepic_usage/week2_tools/iterators.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="pyhtonEducation.iws" />
@@ -195,6 +19,12 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/pyhtonEducation$05_filter.coverage" NAME="05_filter Coverage Results" MODIFIED="1461670228344" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/stepic_usage/week2_tools" />
+    <SUITE FILE_PATH="coverage/pyhtonEducation$03_excep_List.coverage" NAME="03_excep_List Coverage Results" MODIFIED="1461419830689" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/stepic_usage/week2_tools" />
+    <SUITE FILE_PATH="coverage/pyhtonEducation$04_import.coverage" NAME="04_import Coverage Results" MODIFIED="1461519852053" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/stepic_usage/week2_tools" />
+    <SUITE FILE_PATH="coverage/pyhtonEducation$iterators.coverage" NAME="iterators Coverage Results" MODIFIED="1461686702879" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/stepic_usage/week2_tools" />
+  </component>
   <component name="CreatePatchCommitExecutor">
     <option name="PATCH_PATH" value="" />
   </component>
@@ -204,54 +34,83 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/.gitignore">
+      <file leaf-file-name="04_import.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/stepic_usage/week2_tools/04_import.py">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="27" column="5" selection-start-line="27" selection-start-column="5" selection-end-line="27" selection-end-column="5" />
+              <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="10_log.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/stepic_usage/week1_basic/10_log.py">
+      <file leaf-file-name="additionalFBEnrich.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/additional/additionalFBEnrich.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="24" column="41" selection-start-line="18" selection-start-column="5" selection-end-line="24" selection-end-column="41" />
+              <folding>
+                <element signature="e#24#55#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="splitCSV60.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/additional/splitCSV60.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="22" column="27" selection-start-line="22" selection-start-column="27" selection-end-line="22" selection-end-column="27" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="addToMongo.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/additional/addToMongo.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="14" column="35" selection-start-line="14" selection-start-column="10" selection-end-line="14" selection-end-column="35" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="03_excep_List.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/stepic_usage/week2_tools/03_excep_List.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="16" column="12" selection-start-line="16" selection-start-column="12" selection-end-line="16" selection-end-column="12" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="05_filter.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/stepic_usage/week2_tools/05_filter.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.7048458">
+              <caret line="16" column="26" selection-start-line="16" selection-start-column="26" selection-end-line="16" selection-end-column="26" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="iterators.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/stepic_usage/week2_tools/iterators.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="19" column="23" selection-start-line="19" selection-start-column="23" selection-end-line="19" selection-end-column="23" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="02_excep_hierarchy.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/stepic_usage/week2_tools/02_excep_hierarchy.py">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
               <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="01_sum.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/stepic_usage/week1_basic/01_sum.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="file.txt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/stepic_basic/task1/file.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="test.csv" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/additional/files/test.csv">
-          <provider editor-type-id="com.intellij.database.editor.CsvTableFileEditorProvider">
-            <state />
-          </provider>
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.8">
-              <caret line="17" column="20" selection-start-line="17" selection-start-column="20" selection-end-line="17" selection-end-column="20" />
               <folding />
             </state>
           </provider>
@@ -278,6 +137,10 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/stepic_usage/week2_tools/03_excep_List.py" />
+        <option value="$PROJECT_DIR$/stepic_usage/week2_tools/04_import.py" />
+        <option value="$PROJECT_DIR$/stepic_usage/week2_tools/05_filter.py" />
+        <option value="$PROJECT_DIR$/stepic_usage/week2_tools/iterators.py" />
       </list>
     </option>
   </component>
@@ -317,7 +180,9 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="Scratches" />
       <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -336,10 +201,40 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="pyhtonEducation" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="pyhtonEducation" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="stepic_usage" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="pyhtonEducation" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="pyhtonEducation" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="stepic_usage" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="week2_tools" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
-      <pane id="Scratches" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -352,10 +247,12 @@
     <property name="options.lastSelected" value="MavenSettings" />
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="options.splitter.details.proportions" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.scala.compiler.ScalaCompileServerForm" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="recentsLimit" value="5" />
+    <property name="restartRequiresConfirmation" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -365,7 +262,79 @@
       <recent name="C:\Users\maol.KYIV\IdeaProjectsr\py-stepic\pyhtonEducation\stepic_usage" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Python.iterators">
+    <configuration default="false" name="03_excep_List" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/stepic_usage/week2_tools" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="pyhtonEducation" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/stepic_usage/week2_tools/03_excep_List.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="04_import" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Program Files (x86)\Python34\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/stepic_usage/week2_tools" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="pyhtonEducation" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/stepic_usage/week2_tools/04_import.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="05_filter" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/stepic_usage/week2_tools" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="pyhtonEducation" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/stepic_usage/week2_tools/05_filter.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="iterators" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/stepic_usage/week2_tools" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="pyhtonEducation" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/stepic_usage/week2_tools/iterators.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
     <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
       <module name="" />
       <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
@@ -699,6 +668,12 @@
       <method />
     </configuration>
     <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <pass-parent-envs>true</pass-parent-envs>
+      <envs />
       <method />
     </configuration>
     <configuration default="true" type="osgi.bnd.run" factoryName="Run Launcher">
@@ -833,6 +808,20 @@
       <envs />
       <method />
     </configuration>
+    <list size="4">
+      <item index="0" class="java.lang.String" itemvalue="Python.03_excep_List" />
+      <item index="1" class="java.lang.String" itemvalue="Python.04_import" />
+      <item index="2" class="java.lang.String" itemvalue="Python.05_filter" />
+      <item index="3" class="java.lang.String" itemvalue="Python.iterators" />
+    </list>
+    <recent_temporary>
+      <list size="4">
+        <item index="0" class="java.lang.String" itemvalue="Python.iterators" />
+        <item index="1" class="java.lang.String" itemvalue="Python.05_filter" />
+        <item index="2" class="java.lang.String" itemvalue="Python.04_import" />
+        <item index="3" class="java.lang.String" itemvalue="Python.03_excep_List" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SbtLocalSettings">
     <option name="modificationStamps">
@@ -845,6 +834,9 @@
     </option>
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="c1b39bf0-daec-43f8-ab8e-964fe58a88a3" name="Default" comment="" />
@@ -852,7 +844,8 @@
       <option name="number" value="Default" />
       <updated>1461418021809</updated>
       <workItem from="1461418030442" duration="523000" />
-      <workItem from="1461418640770" duration="243000" />
+      <workItem from="1461418640770" duration="4290000" />
+      <workItem from="1461518881471" duration="11756000" />
     </task>
     <task id="LOCAL-00001" summary="first time test">
       <created>1461418275968</created>
@@ -860,43 +853,72 @@
       <option name="project" value="LOCAL" />
       <updated>1461418275968</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="all previous inserted">
+      <created>1461418943032</created>
+      <option name="number" value="00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1461418943032</updated>
+    </task>
+    <task id="LOCAL-00003" summary="week2 updates">
+      <created>1461419910102</created>
+      <option name="number" value="00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1461419910102</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="766000" />
+    <option name="totallyTimeSpent" value="16569000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32962447" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3286908" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3286908" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3356546" sideWeight="0.5025707" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32962447" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33008358" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3356546" sideWeight="0.4974293" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3356546" sideWeight="0.4974293" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.19215938" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.19023137" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39972144" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39972144" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="REST Client" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.35654595" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3356546" sideWeight="0.4974293" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
@@ -904,7 +926,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="first time test" />
     <MESSAGE value="all previous inserted" />
-    <option name="LAST_COMMIT_MESSAGE" value="all previous inserted" />
+    <MESSAGE value="week2 updates" />
+    <option name="LAST_COMMIT_MESSAGE" value="week2 updates" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -914,8 +937,75 @@
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
+          <caret line="27" column="5" selection-start-line="27" selection-start-column="5" selection-end-line="27" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/stepic_usage/week1_basic/09_listExtend.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/stepic_usage/week1_basic/10_log.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="7" column="31" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/stepic_usage/week2_tools/03_excep_List.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="16" column="12" selection-start-line="16" selection-start-column="12" selection-end-line="16" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/additional/additionalFBEnrich.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="11" column="46" selection-start-line="11" selection-start-column="27" selection-end-line="11" selection-end-column="46" />
+          <folding>
+            <element signature="e#24#55#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/additional/addToMongo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/additional/files/test.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.8018868">
+          <caret line="17" column="20" selection-start-line="17" selection-start-column="20" selection-end-line="17" selection-end-column="20" />
+        </state>
+      </provider>
+      <provider editor-type-id="com.intellij.database.editor.CsvTableFileEditorProvider">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/stepic_basic/task1/file.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
@@ -930,7 +1020,7 @@
     <entry file="file://$PROJECT_DIR$/stepic_usage/week1_basic/10_log.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <caret line="7" column="31" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="31" />
           <folding />
         </state>
       </provider>
@@ -943,7 +1033,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/stepic_basic/task1/file.txt">
+    <entry file="file://$PROJECT_DIR$/stepic_usage/week1_basic/04_recursion.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -951,13 +1041,100 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/additional/files/test.csv">
-      <provider editor-type-id="com.intellij.database.editor.CsvTableFileEditorProvider">
-        <state />
-      </provider>
+    <entry file="file://$PROJECT_DIR$/stepic_usage/week1_basic/05_namespace.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.8">
-          <caret line="17" column="20" selection-start-line="17" selection-start-column="20" selection-end-line="17" selection-end-column="20" />
+        <state vertical-scroll-proportion="-0.53333336">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/stepic_usage/week1_basic/09_listExtend.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/stepic_usage/week1_basic/03_closest_mod_5.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/stepic_usage/week1_basic/02_diff_elements.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/stepic_usage/week2_tools/04_import.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/additional/addToMongo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="14" column="35" selection-start-line="14" selection-start-column="10" selection-end-line="14" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/stepic_usage/week2_tools/02_excep_hierarchy.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/stepic_usage/week2_tools/03_excep_List.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="16" column="12" selection-start-line="16" selection-start-column="12" selection-end-line="16" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/additional/additionalFBEnrich.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="24" column="41" selection-start-line="18" selection-start-column="5" selection-end-line="24" selection-end-column="41" />
+          <folding>
+            <element signature="e#24#55#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/additional/splitCSV60.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="22" column="27" selection-start-line="22" selection-start-column="27" selection-end-line="22" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/stepic_usage/week2_tools/iterators.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="19" column="23" selection-start-line="19" selection-start-column="23" selection-end-line="19" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/stepic_usage/week2_tools/05_filter.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.7048458">
+          <caret line="16" column="26" selection-start-line="16" selection-start-column="26" selection-end-line="16" selection-end-column="26" />
           <folding />
         </state>
       </provider>
