@@ -1,8 +1,8 @@
 from random import random
 
 lst = [1, 2, 3, 4, 5, 6, 7]
-
 '''
+
 for i in lst:
     print(i)
 
@@ -15,7 +15,7 @@ while True:
         print(i)
     except StopIteration:
         break
-''
+
 class RandomIterator:
     def __iter__(self):
         return self
@@ -33,7 +33,7 @@ class RandomIterator:
 
 for x in RandomIterator(5):
     print(x)
-'''
+
 
 class DoubleElementsIterator:
     def __init__(self, lst):
@@ -53,3 +53,35 @@ class MyList(list):
 
 for pair in MyList([1, 2, 3, 4]):
     print(pair)
+
+
+def random_generator(k):
+    for i in range(k):
+        yield random()
+
+gen = random_generator(3)
+print(type(gen))
+
+
+x = [-2, -1, 0, 1, 2]
+y = [i * i for i in x if i > 0]
+print(y)
+
+z = [(x, y) for x in range(3) for y in range(3) if y >= x]
+print(z)
+
+z1 = ((x, y) for x in range(3) for y in range(3) if y >= x)
+print(z1)
+print(next(z1))
+print(next(z1))
+print(next(z1))
+'''
+
+a = [i + 1 for i in range(4)]
+print(a)
+b = [i for i in range(4)]
+print(b)
+c = [i for i in range(5)][1:]
+print(c)
+d = list(i + 1 for i in range(4))
+print(d)
